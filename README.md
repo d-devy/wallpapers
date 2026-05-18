@@ -1,8 +1,17 @@
 # Wallpapers
+some weird stuff idunno rlly
 
-## 2screen
+- Touhou
+- 2screen walls
+- random stuff
 
-<img src="2screen/crop.sh" width="250">
+> Generated automatically via script.
+
+---
+
+<details>
+<summary><h2>2screen</h2></summary>
+
 <img src="2screen/wallhaven-01kegg.jpg" width="250">
 <img src="2screen/wallhaven-4o6ov5.jpg" width="250">
 <img src="2screen/wallhaven-8g5872.png" width="250">
@@ -12,9 +21,10 @@
 <img src="2screen/wallhaven-vpq2m5_3840x1080.png" width="250">
 <img src="2screen/wallhaven-y82kog.png" width="250">
 
-<br>
+</details>
 
-## touhou
+<details>
+<summary><h2>touhou</h2></summary>
 
 <img src="touhou/1120133.jpg" width="250">
 <img src="touhou/1125240.jpg" width="250">
@@ -58,9 +68,10 @@
 <img src="touhou/979588.png" width="250">
 <img src="touhou/wallpaperflare.com_wallpaper.jpg" width="250">
 
-<br>
+</details>
 
-## unsort
+<details>
+<summary><h2>unsort</h2></summary>
 
 <img src="unsort/113548104_p2.jpg" width="250">
 <img src="unsort/1777308128737-019dcfd1-5c24-7669-a24c-497962c06697.png" width="250">
@@ -79,5 +90,5 @@
 <img src="unsort/wallpaper.png" width="250">
 <img src="unsort/WP.png" width="250">
 
-<br>
+</details>
 
